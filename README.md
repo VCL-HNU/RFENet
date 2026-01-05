@@ -4,4 +4,4 @@ The code for the paper "Surface Mesh Reconstruction from Medical Images via Enri
 
 The code will be updated soon.
 
-![image](https://github.com/VCL-HNU/RFENet/blob/main/Graphical_Abstract.pdf)
+![image](https://github.com/VCL-HNU/RFENet/blob/main/graph_abstract.jpg)
