@@ -23,7 +23,7 @@ The default implementation details are in the utils/params.py. Please update the
 python3 main.py --train
 
 ### 4. Testing
-For testing, $N_TEMPLATE_VERTICES = 168058$
+For testing, N_TEMPLATE_VERTICES = 168058
 
 1. generate meshes:
    python3 main.py --test
