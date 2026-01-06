@@ -26,10 +26,13 @@ python3 main.py --train
 For testing, N_TEMPLATE_VERTICES = 168058
 
 1. generate meshes:
+
    python3 main.py --test
    
-2. evaluate meshes:
+3. evaluate meshes:
+
    cd scripts
+
    python3 eval_meshes.py
    
 ![image](https://github.com/VCL-HNU/RFENet/blob/main/graph_abstract.jpg)
