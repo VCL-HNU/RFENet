@@ -10,7 +10,9 @@ Please prepare an virtual environment with Python 3.7, and then use the command 
 
 ### 2. Dataset
 [OASIS-1](https://sites.wustl.edu/oasisbrains/home/oasis-1/) form [OASIS dataset](https://sites.wustl.edu/oasisbrains/).
+
 [ADNI dataset](https://adni.loni.usc.edu/)
+
 [WORD dataset](https://github.com/HiLab-git/WORD)
 
 Download the dataset, and change the dataset_path in utils/params.py
