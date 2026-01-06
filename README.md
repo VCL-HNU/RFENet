@@ -15,6 +15,24 @@ Please prepare an virtual environment with Python 3.7, and then use the command 
 
 [WORD dataset](https://github.com/HiLab-git/WORD)
 
-Download the dataset, and change the dataset_path in utils/params.py
+Download the dataset, and change the dataset_path in utils/params.py, data/supported_datasets.py and scripts/eval_meshes.py
+
+### 3. Training
+The default implementation details are in the utils/params.py. Please update the paths within it before training.
+
+python3 main.py --train
+
+### 4. Testing
+For testing, N_TEMPLATE_VERTICES = 168058
+
+1. generate meshes:
+  
+python3 main.py --test
+
+2. evaluate meshes:
+
+cd scripts
+
+python3 eval_meshes.py
 
 ![image](https://github.com/VCL-HNU/RFENet/blob/main/graph_abstract.jpg)
