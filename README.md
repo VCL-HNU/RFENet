@@ -18,6 +18,8 @@ Please prepare an virtual environment with Python 3.7, and then use the command 
 Download the dataset, and change the dataset_path in utils/params.py, data/supported_datasets.py and scripts/eval_meshes.py
 
 ### 3. Training
+For template generation, please refer to the scripts/create_template_and_store.py
+
 The default implementation details are in the utils/params.py. Please update the paths within it before training.
 
 python3 main.py --train
