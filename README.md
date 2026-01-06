@@ -4,6 +4,15 @@ The code for the paper "Surface Mesh Reconstruction from Medical Images via Enri
 
 Our code is based on [Vox2Cortex](https://github.com/ai-med/Vox2Cortex?tab=readme-ov-file) and [voxel2mesh](https://github.com/cvlab-epfl/voxel2mesh).
 
-The code and detailed implementation will be updated soon.
+## How to run
+### 1. Environment
+Please prepare an virtual environment with Python 3.7, and then use the command "pip install -r requirements.txt" for the dependencies.
+
+### 2. Dataset
+[OASIS-1](https://sites.wustl.edu/oasisbrains/home/oasis-1/) form [OASIS dataset](https://sites.wustl.edu/oasisbrains/).
+[ADNI dataset](https://adni.loni.usc.edu/)
+[WORD dataset](https://github.com/HiLab-git/WORD)
+
+Download the dataset, and change the dataset_path in utils/params.py
 
 ![image](https://github.com/VCL-HNU/RFENet/blob/main/graph_abstract.jpg)
