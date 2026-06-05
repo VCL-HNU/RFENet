@@ -9,7 +9,7 @@ Our code is based on [Vox2Cortex](https://github.com/ai-med/Vox2Cortex?tab=readm
 Please prepare an virtual environment with Python 3.7, and then use the command "pip install -r requirements.txt" for the dependencies.
 
 ### 2. Dataset
-[OASIS-1](https://sites.wustl.edu/oasisbrains/home/oasis-1/) form [OASIS dataset](https://sites.wustl.edu/oasisbrains/).
+[OASIS-1](https://sites.wustl.edu/oasisbrains/home/oasis-1/) form [OASIS dataset](https://sites.wustl.edu/oasisbrains/). (The spilts IDs for OASIS-1 dataset can be found in data/dataset_ids_oasis.txt)
 
 [ADNI dataset](https://adni.loni.usc.edu/)
 
