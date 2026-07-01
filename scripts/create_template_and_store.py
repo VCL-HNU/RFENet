@@ -1,8 +1,5 @@
 
 """ Create a mesh template and store it """
-
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
 import sys 
 sys.path.append(".") 
 from data.cortex import Cortex
