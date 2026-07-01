@@ -1,9 +1,6 @@
 
 """ Set parameters for ablation study. """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 from utils.losses import ChamferAndNormalsLoss
 
 AVAILABLE_ABLATIONS = (
