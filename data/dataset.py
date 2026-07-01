@@ -4,10 +4,6 @@
 The file contains one base class for all datasets and a separate subclass for
 each used dataset.
 """
-
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 import os
 
 import numpy as np
