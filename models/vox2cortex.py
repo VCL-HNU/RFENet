@@ -1,8 +1,5 @@
 """ Vox2Cortex """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 from itertools import chain
 from typing import Union, Tuple
 from deprecated import deprecated
