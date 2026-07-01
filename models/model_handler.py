@@ -1,8 +1,6 @@
 
 """ Handling different architectures """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
 
 from utils.utils import ExtendedEnum
 
