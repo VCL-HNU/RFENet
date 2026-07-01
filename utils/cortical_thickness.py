@@ -1,9 +1,6 @@
 
 """ Utility functions for cortical thickness analysis. """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 import numpy as np
 import torch
 from pytorch3d.structures import Meshes, Pointclouds
