@@ -1,9 +1,6 @@
 
 """ Combination of raining and subsequent testing. """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 from utils.train import training_routine
 from utils.test import test_routine
 
