@@ -1,9 +1,6 @@
 
 """ Put module information here """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 import numpy as np
 
 def read_obj(filepath):
