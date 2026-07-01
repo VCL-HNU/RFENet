@@ -1,9 +1,6 @@
 
 """ Mesh representation """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 from typing import Union
 
 import numpy as np
