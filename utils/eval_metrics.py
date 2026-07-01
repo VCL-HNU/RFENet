@@ -3,9 +3,6 @@
 model prediction, i.e., in normalized coordinate space unless specified
 otherwise."""
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 from enum import IntEnum
 
 import numpy as np
