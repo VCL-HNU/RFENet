@@ -1,9 +1,6 @@
 
 """ Modes """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 from enum import IntEnum
 
 class ExecModes(IntEnum):
