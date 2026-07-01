@@ -1,8 +1,6 @@
 
 """ Custom layers for networks """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
 
 import torch.nn as nn
 
