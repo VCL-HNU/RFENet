@@ -1,9 +1,6 @@
 
 """ Base class for voxel2mesh models """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 from abc import ABC, abstractmethod
 from torch.nn import Module
 
