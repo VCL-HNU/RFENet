@@ -1,9 +1,6 @@
 
 """ Graph (sub-)networks """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 from typing import Union, Tuple
 
 import numpy as np
