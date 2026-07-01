@@ -1,9 +1,6 @@
 
 """ Utility functions for sphere templates. """
 
-__author__ = "Fabi Bongratz"
-__email__ = "fabi.bongratz@tum.de"
-
 from trimesh import Trimesh
 from trimesh.scene.scene import Scene
 from pytorch3d.utils import ico_sphere
